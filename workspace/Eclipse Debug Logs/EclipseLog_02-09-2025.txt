@@ -1,0 +1,7 @@
+ECLIPSE DEBUG LOG (02-09-2025) - Successfully Opened
+WARNING:   THESE LOGS MAY CONTAIN SENSITIVE INFORMATION. I.E USERNAMES AND POSSIBLY HWID'S.
+Version UUID: eol_1, Test Copy: nil, Is Synapse: false
+
+---------------Log Start---------------
+
+[11:17:30]: (Loading) Kicked: You were kicked from this experience: Invalid position (Error Code: 267)
